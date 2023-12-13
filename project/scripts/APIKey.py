@@ -1,1 +1,2 @@
-googleMapsAPI = 'AIzaSyCr8wnRIRXu795cZ9hwOJ2oILmF98XMONY'
+googleMapsAPI = ''
+# please provide a custom google maps API key, which can be generated through the google cloud console.
